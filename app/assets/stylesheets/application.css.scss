@@ -18,3 +18,12 @@
 @import "header";
 @import "sign-in";
 @import "sign-up";
+@import "list";
+
+.outer-div {
+  padding: 18px 35px 25px;
+  width: 60%;
+}
+a.list-group-item {
+  color: #428BCA;
+}
